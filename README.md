@@ -1,7 +1,7 @@
 # CustomerDetails
 
-This is REST web application written in Java 18 using Spring Framework and Spring Boot.
-Currenctly using an HTTP Post Request, you will insert Customer Details into the DB.
+This is a REST web application written in Java 17 using Spring Framework and Spring Boot.
+The application can store and retrieve customers from Postgresql database using Spring Data JPA. 
 
 
 # Customer-Details
