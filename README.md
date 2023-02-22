@@ -4,4 +4,3 @@ This is a REST web application written in Java 17 using Spring Framework and Spr
 The application can store and retrieve customers from Postgresql database using Spring Data JPA. 
 
 
-# Customer-Details
