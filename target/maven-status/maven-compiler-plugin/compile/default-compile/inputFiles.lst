@@ -1,0 +1,8 @@
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\CustomerDetailsApplication.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\util\Constants.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\repository\CustomerDetailsJpaRepository.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\controller\CustomerDetailsController.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\delegate\CustomerDetailsDelegate.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\model\CustomerDetails.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\adapter\CustomerDetailsAdapter.java
+C:\Users\chen_\git\CustomerDetails\src\main\java\com\spring\customerdetails\configuration\JpaConfiguration.java

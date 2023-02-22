@@ -1,0 +1,8 @@
+com\spring\customerdetails\CustomerDetailsApplication.class
+com\spring\customerdetails\configuration\JpaConfiguration.class
+com\spring\customerdetails\repository\CustomerDetailsJpaRepository.class
+com\spring\customerdetails\controller\CustomerDetailsController.class
+com\spring\customerdetails\model\CustomerDetails.class
+com\spring\customerdetails\util\Constants.class
+com\spring\customerdetails\adapter\CustomerDetailsAdapter.class
+com\spring\customerdetails\delegate\CustomerDetailsDelegate.class
