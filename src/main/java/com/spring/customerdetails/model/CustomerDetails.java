@@ -87,4 +87,14 @@ public class CustomerDetails {
 		return postalCode;
 	}
 
+	@Override
+	public String toString() {
+		return "CustomerDetails [customerId=" + customerId + ", firstName=" + firstName + ", lastName=" + lastName
+				+ ", phoneNumber=" + phoneNumber + ", street=" + street + ", city=" + city + ", province=" + province
+				+ ", postalCode=" + postalCode + "]";
+	}
+
+	
+	
+	
 }
